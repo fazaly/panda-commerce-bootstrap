@@ -1,0 +1,26 @@
+.carousel-inner-bg{
+    background-color: #FCEAE8;
+}
+.amount{
+    color: #FF136F;
+}
+.btn-color{
+    background: linear-gradient(to right, #FF5398 0%, #ff136f 100%);
+    color: white;
+}
+.fa-greater-than{
+    font-size: 10px;
+    margin-left: 5px;
+}
+.category-bg-one{
+    background: linear-gradient(to right, #E89434 0%, #EFC625 100%);
+}
+.category-bg-two{
+    background: linear-gradient(to right, #DC1A7A 0%, #DB066C 100%);
+}
+.category-bg-three{
+    background: linear-gradient(to right, #3509EF 0%, #476CF9 100%);
+}
+.category-img{
+    width: 100px;
+}
